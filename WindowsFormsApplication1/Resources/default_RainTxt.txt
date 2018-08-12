@@ -1,0 +1,3 @@
+D:\caluResult\rainforce\rainTemp\rainTemp.txt
+3600
+D:\caluResult\rainforce\rainTemp

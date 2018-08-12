@@ -1,0 +1,3 @@
+D:\caluResult\IDW\IDWAnJie\ID1W
+D:\caluResult\DEM\demAnJie.img
+D:\caluResult\rainpoint_proj.shp

@@ -1,0 +1,4 @@
+3600
+D:\caluResult\rainforce\rainTemp
+D:\caluResult\maxInfiltration\infil3AnJie.img
+D:\caluResult\IDW\IDWAnJie

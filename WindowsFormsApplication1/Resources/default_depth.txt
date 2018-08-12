@@ -1,0 +1,3 @@
+D:\caluResult\depth\depthTemp
+D:\caluResult\maxInfiltration\infil3AnJie.img
+D:\caluResult\IDW\IDWAnJie

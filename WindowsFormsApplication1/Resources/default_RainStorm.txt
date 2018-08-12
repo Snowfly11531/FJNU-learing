@@ -1,0 +1,6 @@
+D:\caluResult\out\outAnJie\out5AnJie
+90000
+3600
+D:\caluResult\rainforce\rainAnJie\rainAnJie.txt
+D:\caluResult\manningRaster\mannAnJie.img
+D:\caluResult\DEM\demAnJie_fill.img
